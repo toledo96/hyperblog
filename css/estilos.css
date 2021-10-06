@@ -33,6 +33,13 @@ body{
     vertical-align: middle;
 }
 
+#footer{
+    background-color: #777;
+    text-align: center;
+    color: white;
+    padding: 0.5em;
+}
+
 #post{
     
 }
