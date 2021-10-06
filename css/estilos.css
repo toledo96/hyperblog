@@ -28,6 +28,13 @@ body{
     font-weight: bold;
 }
 
+#footer{
+    background-color: #777;
+    text-align: center;
+    color: white;
+    padding: 0.5em;
+}
+
 #post{
     
 }
