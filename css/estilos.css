@@ -20,12 +20,17 @@ body{
 
 }
 
-#cabecera{
+#cabecera{   
     background:  #33A;
     color: white;
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
+}
+
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #post{
